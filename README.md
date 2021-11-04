@@ -42,7 +42,7 @@
 <h3 align="center"> Resume </h3>
 <p></p>
 
-[My Resume/CV](https://github.com/SachinHatikankar100/SachinHatikankar100/blob/master/resumes/resume%20v1.0.pdf)
+[My Resume/CV](https://github.com/SachinHatikankar100/SachinHatikankar100/blob/master/resumes/Sachin_RPA_Resume.pdf)
 
 
 <h3 align="center"> <b> 📈 GitHub Stats </b> </h3>
