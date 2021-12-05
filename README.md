@@ -57,4 +57,4 @@
 <h3 align="center"> <b> 📈 Profile Visits </b> </h3>
 <p></p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SachinHatikankar100.SachinHatikankar100)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SachinHatikankar100.SachinHatikankar100&left_color=green&right_color=red)
