@@ -30,6 +30,10 @@
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 
+<h3 align="center"> Badges </h3>
+<p></p>
+
+<a href="https://novu.co/contributors/SachinHatikankar100/"><img src="https://contributors.novu.co/profiles/SachinHatikankar100-small.jpg" height="170" width="450" alt="" /></a>
 
 <h3 align="center"> Socials </h3>
 <p></p>
