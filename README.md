@@ -62,3 +62,5 @@
 <p></p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SachinHatikankar100.SachinHatikankar100&left_color=green&right_color=red)
+
+[![An image of @shatikankan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shatikankan)](https://holopin.io/@shatikankan)
