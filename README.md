@@ -55,12 +55,6 @@
 <img width = "48%" src="https://github-readme-stats.vercel.app/api?username=SachinHatikankar100&count_private=true&show_icons=true&include_all_commits=false&theme=algolia" alt="Sachin Hatikankan" />
 </p>
 
-[![Sachin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SachinHatikankar100&theme=xcode)](https://git.io/JPb2G)
 
-
-<h3 align="center"> <b> 📈 Profile Visits </b> </h3>
-<p></p>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SachinHatikankar100.SachinHatikankar100&left_color=green&right_color=red)
 
 [![An image of @shatikankan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shatikankan)](https://holopin.io/@shatikankan)
